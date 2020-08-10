@@ -1,2 +1,2 @@
 # awsdemo
-aws training
+aws ci-cd deployment
